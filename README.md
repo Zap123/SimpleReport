@@ -28,4 +28,4 @@ w.add(new TableWidget("sales", "Product Revenue"));
 Report report = new BasicReport(w, model);
 report.run();
 ```
-![Example Report](/screenshot.png?raw=true "Optional Title")
+![Example Report](/screenshot.png)
